@@ -1,4 +1,4 @@
 # BachelorWarehouse
-Some Projects in bachelor time
+Some Projects during bachelor
 
 Will be uploaded sometime
